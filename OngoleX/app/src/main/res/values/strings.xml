@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">OngoleX</string>
+    <string name="email_hint">Your Email...</string>
+    <string name="pass_hint">Password...</string>
+    <string name="login_btn_text">Login to account</string>
+    <string name="login_reg_btn_text">Need a New Account ?</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_setting_text">AccountSettings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="reg_btn_text">Create New Account</string>
+    <string name="reg_login_text">Already have an Account ?</string>
+    <string name="reg_pass_text">Your Password...</string>
+    <string name="reg_confirm_pass_text">Conform Password...</string>
+    <string name="setup_name_hint">Your Name Here...</string>
+    <string name="setup_btn_name_text">Save Account Settings</string>
+    <string name="new_post_btn_hint">Post..</string>
+    <string name="post_desc_hint"> Add Descrption..</string>
+    <string name="bottom_home_text">Home</string>
+    <string name="bottom_notification_text">About Us</string>
+    <string name="bottom_ac_text">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="popup_text">Created ??</string>
+    <string name="aboutus_text"><![CDATA[OngoleX is an android App which was created to Ongole People & By Using this App You can post your blog and You can promote Your Business Ads & Events that are upcoming in Ongole. and You can post your shop Details and Special Offers That You providing Such as Latest shirts and tshirt with High Discounts etc..]]></string>
+
+</resources>

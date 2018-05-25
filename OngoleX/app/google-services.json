@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "772739704833",
+    "firebase_url": "https://ongolex-2c136.firebaseio.com",
+    "project_id": "ongolex-2c136",
+    "storage_bucket": "ongolex-2c136.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772739704833:android:57eedae460a44008",
+        "android_client_info": {
+          "package_name": "ongolex.wordpress.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772739704833-ebtu7bb180ck2thsbtu7lasd3c8s85se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ongolex.wordpress.com",
+            "certificate_hash": "5cd18229ef80ee41f97922d49185f0b2c14491a5"
+          }
+        },
+        {
+          "client_id": "772739704833-d8s75f3nqk6nt7fojtfe0f86eom4b6ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMKZdJBIgiegvRxSPB7EMoFyNc4PjSpcs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772739704833-d8s75f3nqk6nt7fojtfe0f86eom4b6ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
